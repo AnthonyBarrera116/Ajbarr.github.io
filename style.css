@@ -112,6 +112,7 @@ ul.paper {
 }
 
 ul.skills {
+    list-style: "-   ";
     list-style-position: outside;
 }
 
