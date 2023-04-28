@@ -111,6 +111,10 @@ ul.paper {
     list-style-position: outside;
 }
 
+ul.skills {
+    list-style-position: outside;
+}
+
 /* media queres */
 @media(max-width:780px){
     .grid-2{
